@@ -1,0 +1,215 @@
+.tUrMA {
+    min-height: 100vh;
+}
+
+.tUrMA .headshotContainer {
+    grid-column: 1 / -1;
+    margin: 0 auto;
+}
+
+.tUrMA .aboutInfo {
+    grid-column: 1 / -1;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.tUrMA .aboutInfo h2 {
+    padding-left: 3px;
+    margin-bottom: -5px;
+}
+
+.tUrMA .aboutInfo .visualHeading {
+    color: var(--nonBinaryGold);
+    margin: 5px 0;
+}
+
+.tUrMA .aboutInfo>p {
+    margin: 20px 0;
+}
+
+.tUrMA .aboutInfo .button {
+    margin: 25px 5px 55px 5px;
+}
+
+.tUrMA .aboutInfo .button:hover {
+    color: var(--nonBinaryGold);
+}
+
+.tUrMA .skillsBox {
+    grid-column: 1 / -1;
+    width: 90%;
+    padding-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    grid-gap: 1fr;
+}
+
+.tUrMA .skillsBox h4 {
+    font-size: 1.8rem;
+    padding-left: 8px;
+    width: 100%;
+    grid-column: 1 / -1;
+}
+
+.tUrMA .skillsBox .skill {
+    justify-self: flex-start;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    height: 100%;
+    margin: 3px;
+    padding-left: 8px;
+    -webkit-transition: -webkit-transform 0.3s;
+    -webkit-transition: transform 0.3s;
+    transition: transform 0.3s;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+.tUrMA .skillsBox .skill:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    -webkit-transition: -webkit-transform 0.3s;
+    -webkit-transition: transform 0.3s;
+    transition: transform 0.3s;
+}
+
+.tUrMA .skillsBox .skill svg {
+    margin: 0 auto;
+}
+
+.tUrMA .skillsBox p {
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 7px 0;
+}
+
+.tUrMA .skillsBox .skill html,
+.tUrMA .skillsBox .css svg,
+.tUrMA .skillsBox .javascript svg {
+    width: 60px;
+}
+
+.tUrMA .skillsBox .jquery svg,
+.tUrMA .skillsBox .react svg,
+.tUrMA .skillsBox .firebase svg {
+    width: 70px;
+}
+
+.tUrMA .skillsBox .javascript svg,
+.tUrMA .skillsBox .react svg {
+    padding-bottom: 3px;
+}
+
+.tUrMA .skillsBox .firebase svg {
+    margin-bottom: -15px;
+}
+
+@media (min-width:768px) {
+    .tUrMA .headshotContainer {
+        grid-column: 1 / span 6;
+    }
+    .tUrMA .aboutInfo,
+    .tUrMA .skills,
+    .tUrMA .skillsBox {
+        grid-column: span 6 / -1;
+    }
+}
+
+data-styled.g13[id="About__AboutStyles-sc-1ti1baf-0"] {
+    content: "tUrMA,"
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+
+button,
+input {
+    overflow: visible;
+}
+
+button,
+select {
+    text-transform: none;
+}
+
+button,
+html [type=button],
+[type=reset],
+[type=submit] {
+    -webkit-appearance: button;
+}
+
+button::-moz-focus-inner,
+[type=button]::-moz-focus-inner,
+[type=reset]::-moz-focus-inner,
+[type=submit]::-moz-focus-inner {
+    border-style: none;
+    padding: 0;
+}
+
+button:-moz-focusring,
+[type=button]:-moz-focusring,
+[type=reset]:-moz-focusring,
+[type=submit]:-moz-focusring {
+    outline: 1px dotted ButtonText;
+}
+
+.button {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    -webkit-letter-spacing: 3px;
+    -moz-letter-spacing: 3px;
+    -ms-letter-spacing: 3px;
+    letter-spacing: 3px;
+    line-height: normal;
+    color: var(--white);
+    text-transform: uppercase;
+    text-align: center;
+    padding: 13px 25px;
+    border: 2px solid var(--white);
+    border-radius: 1px;
+    -webkit-transition: background-color .3s, color .3s, -webkit-transform .3s;
+    -webkit-transition: background-color .3s, color .3s, transform .3s;
+    transition: background-color .3s, color .3s, transform .3s;
+}
+
+.button:hover,
+.button:focus {
+    color: inherit;
+    border: 2px solid;
+    border-color: inherit;
+    -webkit-transform: scaleX(1.07);
+    -ms-transform: scaleX(1.07);
+    transform: scaleX(1.07);
+    -webkit-transition: border .3s, color .3s, -webkit-transform .3s;
+    -webkit-transition: border .3s, color .3s, transform .3s;
+    transition: border .3s, color .3s, transform .3s;
+}
+
+.iUvYOF h2,
+.iUvYOF .visualHeading,
+.iUvYOF p,
+.iUvYOF button {
+    grid-column: 2 / -2;
+    text-align: center;
+}

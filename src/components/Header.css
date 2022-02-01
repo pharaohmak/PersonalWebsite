@@ -1,0 +1,307 @@
+.navbar {
+    min-height: 8vh;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 7px;
+}
+
+.navbar nav ul {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.navbar nav ul li {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.navbar nav ul li svg {
+    width: 100%;
+    color: gold;
+}
+
+.navbar .getInTouch {
+    width: 100px;
+    color: gold;
+}
+
+.navbar .getInTouch a {
+    padding: 5px;
+    width: 100%;
+    -webkit-transform: rotate(-30deg);
+    -ms-transform: rotate(-30deg);
+    transform: rotate(-30deg);
+    -webkit-transition: -webkit-transform 1s;
+    -webkit-transition: transform 1s;
+    transition: transform 1s;
+}
+
+ul > li >img {
+    width: 120px;
+    height: auto;
+}
+
+.expectations {
+    font-size: 16px;
+    padding: 5px;
+}
+
+.navbar .getInTouch a:hover,
+.navbar .getInTouch a:focus {
+    -webkit-transform: rotate(182deg);
+    -ms-transform: rotate(182deg);
+    transform: rotate(182deg);
+    -webkit-transition: -webkit-transform 1s;
+    -webkit-transition: transform 1s;
+    transition: transform 1s;
+}
+
+data-styled.g5[id="navbar"] {
+    content: "navbar,"
+}
+
+article,
+aside,
+footer,
+header,
+nav,
+section {
+    display: block;
+}
+
+.grid-wrapper {
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 5% repeat(auto-fit, minmax(65px, 1fr)) 5%;
+    grid-column-gap: 30px;
+}
+
+.logo {
+    grid-column: 2 / -2;
+    justify-self: center;
+}
+
+.dxlkPI {
+    min-height: 100vh;
+    margin: 4rem auto;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+}
+
+
+/*!sc*/
+
+.dxlkPI h1 {
+    color: var(--transBlue);
+    margin: 25px 0 20px 0;
+    -webkit-animation: fading-in 3s;
+    animation: fading-in 3s;
+    grid-column: 2 / -2;
+}
+
+
+/*!sc*/
+
+.dxlkPI .subheading,
+.dxlkPI .surheading {
+    grid-column: 2 / -2;
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+}
+
+/*!sc*/
+
+.dxlkPI .design,
+.dxlkPI .develop,
+.dxlkPI .deploy,
+.dxlkPI .surheading {
+    -webkit-animation: fading-in 3s;
+    animation: fading-in 3s;
+}
+
+
+/*!sc*/
+
+.dxlkPI p:first-child {
+    text-align: center;
+}
+
+
+/*!sc*/
+
+.dxlkPI p:last-child {
+    text-align: center;
+}
+
+
+/*!sc*/
+
+.dxlkPI .skipToContent {
+    width: 65px;
+    grid-column: 2 / -2;
+    margin: 4rem auto 0;
+}
+
+
+/*!sc*/
+
+data-styled.g16[id="Hero__HeroStyles-sc-17fa0jw-0"] {
+    content: "dxlkPI,"
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li,
+a {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 5.2rem;
+}
+
+@media (min-width:375px) {
+    h1 {
+        font-size: 6.4rem;
+    }
+}
+
+@media (min-width:768px) {
+    h1 {
+        font-size: 13.6rem;
+    }
+}
+
+
+/*!sc*/
+
+@media (min-width:1200px) {
+    h1 {
+        font-size: 19.2rem;
+    }
+}
+
+
+h1,
+h2,
+h3,
+h4,
+p,
+.subheading,
+.surheading,
+.tab,
+label {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    -webkit-letter-spacing: 0;
+    -moz-letter-spacing: 0;
+    -ms-letter-spacing: 0;
+    letter-spacing: 0;
+}
+
+h2,
+.skills,
+.subheading,
+.surheading,
+.tab {
+    font-size: 1.6rem;
+    font-weight: 700;
+    -webkit-letter-spacing: 3px;
+    -moz-letter-spacing: 3px;
+    -ms-letter-spacing: 3px;
+    letter-spacing: 3px;
+    line-height: 2;
+    text-transform: uppercase;
+}
+
+
+/*!sc*/
+
+@media (min-width:375px) {
+    h2,
+    .skills,
+    .subheading,
+    .surheading,
+    .tab {
+        font-size: 2rem;
+    }
+}
+
+
+/*!sc*/
+
+@media (min-width:1200px) {
+    h2,
+    .skills,
+    .subheading,
+    .surheading,
+    .tab {
+        font-size: 2.4rem;
+    }
+}
+
+
+/*!sc*/
+
+h3,
+.visualHeading {
+    font-size: 4.4rem;
+    font-weight: 700;
+    -webkit-letter-spacing: 2px;
+    -moz-letter-spacing: 2px;
+    -ms-letter-spacing: 2px;
+    letter-spacing: 2px;
+}
+
+
+/*!sc*/
+
+@media (min-width:375px) {
+    h3,
+    .visualHeading {
+        font-size: 4.8rem;
+    }
+}
+
+
+/*!sc*/
+
+@media (min-width:1200px) {
+    h3,
+    .visualHeading {
+        font-size: 6.4rem;
+    }
+}

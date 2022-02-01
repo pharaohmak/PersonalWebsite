@@ -1,0 +1,113 @@
+.iXnoVZ {
+    border-top: 1px solid var(--grey);
+    padding: 4rem 0;
+}
+
+.iXnoVZ .footerNav {
+    margin: 0;
+    justify-self: center;
+    grid-column: 2 / -2;
+}
+
+.iXnoVZ .footerNav ul {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+@media (min-width:1200px) {
+    .iXnoVZ .footerNav ul {
+        -webkit-box-pack: end;
+        -webkit-justify-content: flex-end;
+        -ms-flex-pack: end;
+        justify-content: flex-end;
+    }
+}
+
+.iXnoVZ .footerNav li {
+    font-size: 1rem;
+    margin: 0 5px;
+    padding: 0;
+}
+
+.iXnoVZ .credits {
+    text-align: center;
+    width: 100%;
+    padding: 35px 0;
+    grid-column: 2 / -2;
+}
+
+.iXnoVZ .credits p:first-of-type {
+    margin-bottom: 4px;
+}
+
+.iXnoVZ .credits a {
+    -webkit-transition: color 0.3s;
+    transition: color 0.3s;
+}
+
+.iXnoVZ .credits a:hover,
+.iXnoVZ .credits a:focus {
+    color: var(--agenderGreen);
+}
+
+.iXnoVZ .credits .creditIcon {
+    display: inline-block;
+    position: relative;
+    top: -1px;
+    margin: 0 3px;
+    font-size: 1.4rem;
+}
+
+.iXnoVZ .credits .creditIcon.heart {
+    color: var(--transPink);
+}
+
+.iXnoVZ .credits .creditIcon.palette {
+    color: var(--agenderGreen);
+}
+
+.iXnoVZ .socialLink {
+    padding: 1rem;
+}
+
+.iXnoVZ .socialLink .socialIcon {
+    font-size: 2rem;
+    -webkit-transition: -webkit-transform 0.3s, color 0.3s;
+    -webkit-transition: transform 0.3s, color 0.3s;
+    transition: transform 0.3s, color 0.3s;
+}
+
+.iXnoVZ .socialLink:hover .socialIcon,
+.iXnoVZ .socialLink:focus .socialIcon {
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    -webkit-transition: -webkit-transform 0.3s, color 0.3s;
+    -webkit-transition: transform 0.3s, color 0.3s;
+    transition: transform 0.3s, color 0.3s;
+}
+
+.iXnoVZ .socialLink.github:hover,
+.iXnoVZ .socialLink.github.focus {
+    color: var(--transPink);
+}
+
+.iXnoVZ .socialLink.linkedin:hover,
+.iXnoVZ .socialLink.linkedin:focus {
+    color: var(--nonBinaryGold);
+}
+
+.iXnoVZ .socialLink.twitter:hover,
+.iXnoVZ .socialLink.twitter:focus {
+    color: var(--transBlue);
+}
+
+data-styled.g6[id="Footer__FooterStyles-sc-1k58ucd-0"] {
+    content: "iXnoVZ,"
+}

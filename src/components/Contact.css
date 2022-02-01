@@ -1,0 +1,193 @@
+.iUvYOF {
+    padding: 0 0 20rem;
+}
+
+.iUvYOF h2,
+.iUvYOF .visualHeading,
+.iUvYOF p,
+.iUvYOF button {
+    grid-column: 2 / -2;
+    text-align: center;
+}
+
+.iUvYOF .visualHeading {
+    color: var(--nonBinaryGold);
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.iUvYOF p {
+    margin: 2rem auto 2.4rem;
+    grid-column: 4 / -4;
+}
+
+.iUvYOF button {
+    background-color: var(--background);
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    justify-self: center;
+    margin-top: 1rem;
+}
+
+.iUvYOF button:hover,
+.iUvYOF button:focus {
+    color: var(--nonBinaryGold);
+}
+
+.iUvYOF .contactForm {
+    grid-column: 2 / -2;
+    padding: 4rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 6rem;
+    border: 4px solid var(--nonBinaryGold);
+    border-radius: 5px;
+}
+
+.iUvYOF .contactForm h3 {
+    color: var(--nonBinaryGold);
+    margin: 2rem 0 5rem;
+}
+
+.iUvYOF .contactForm .closeFormButton {
+    border: none;
+    padding: 0;
+    font-size: 10rem;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+    color: var(--transBlue);
+    background-color: transparent;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    height: 90px;
+    position: absolute;
+    top: -28px;
+    right: -5px;
+    -webkit-transition: color 0.3s;
+    transition: color 0.3s;
+}
+
+.iUvYOF .contactForm .closeFormButton:hover,
+.iUvYOF .contactForm .closeFormButton:focus {
+    color: var(--transPink);
+    -webkit-transition: color 0.3s;
+    transition: color 0.3s;
+}
+
+.iUvYOF .contactForm input,
+.iUvYOF .contactForm textarea {
+    background: rgba(244, 208, 111, 0.5);
+    color: var(--background);
+    font-size: 1.6rem;
+    border: 3px solid var(--background);
+    border-radius: 5px;
+    padding: 10px 5px;
+    margin: 10px 5px;
+    -webkit-transition: background 0.3s;
+    transition: background 0.3s;
+}
+
+.iUvYOF .contactForm input:hover,
+.iUvYOF .contactForm textarea:hover,
+.iUvYOF .contactForm input:focus,
+.iUvYOF .contactForm textarea:focus {
+    background: var(--nonBinaryGold);
+    -webkit-transition: background 0.3s;
+    transition: background 0.3s;
+}
+
+.iUvYOF .contactForm input::-webkit-input-placeholder,
+.iUvYOF .contactForm textarea::-webkit-input-placeholder {
+    color: var(--background);
+}
+
+.iUvYOF .contactForm input::-moz-placeholder,
+.iUvYOF .contactForm textarea::-moz-placeholder {
+    color: var(--background);
+}
+
+.iUvYOF .contactForm input:-ms-input-placeholder,
+.iUvYOF .contactForm textarea:-ms-input-placeholder {
+    color: var(--background);
+}
+
+.iUvYOF .contactForm input::placeholder,
+.iUvYOF .contactForm textarea::placeholder {
+    color: var(--background);
+}
+
+.iUvYOF .contactForm textarea {
+    resize: none;
+    height: 148px;
+}
+
+.iUvYOF .contactForm label {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    -webkit-letter-spacing: 2px;
+    -moz-letter-spacing: 2px;
+    -ms-letter-spacing: 2px;
+    letter-spacing: 2px;
+    margin-bottom: 1.5rem;
+}
+
+.iUvYOF .contactForm label span {
+    padding-left: 7px;
+}
+
+.iUvYOF .contactForm label span:after {
+    content: "*";
+    margin-left: 2px;
+    position: relative;
+    top: -5px;
+    font-size: 1.2rem;
+}
+
+.iUvYOF .contactForm .name,
+.iUvYOF .contactForm .email {
+    width: 100%;
+}
+
+@media (min-width:768px) {
+    .iUvYOF .contactForm .name,
+    .iUvYOF .contactForm .email {
+        width: 50%;
+    }
+}
+
+.iUvYOF h2,
+.iUvYOF .visualHeading,
+.iUvYOF p,
+.iUvYOF button {
+    grid-column: 2 / -2;
+    text-align: center;
+}
+
+data-styled.g14[id="Contact__ContactStyles-sc-1nqfu2j-0"] {
+    content: "iUvYOF,"
+}
