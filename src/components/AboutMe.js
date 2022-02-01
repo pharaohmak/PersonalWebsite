@@ -1,6 +1,7 @@
 import React from 'react';
 import './AboutMe.css';
 import headshot from '../assets/headshot.jpeg';
+import resume from '../assets/resume.pdf'
 import html from '../assets/skills/html.svg';
 import css from '../assets/skills/css.svg';
 import js from '../assets/skills/js.svg';
@@ -46,12 +47,8 @@ const AboutMe = () => {
                             <li>Advice: Promote usability best practices to maintain graphic standards.</li>
                             <li>Tech Support:  Troubleshooting and Debug Code.</li>
                         </ul>
-                        
-                           
-                       
 
-
-                        <a href="/assets/Resume.pdf " target="_blank " rel="noopener " class="button ">View Résumé</a></div>
+                        <a href={ resume } target="_blank " rel="noopener " class="button ">View Résumé</a></div>
                     <h3 class="skills ">Skills</h3>
                     <ul class="skillsBox ">
                         <li class="skill html ">

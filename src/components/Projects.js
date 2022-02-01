@@ -21,7 +21,7 @@ const Projects = () => {
                                     <p class="skills "> React -- JavaScript -- HTML -- CSS</p>
                                     <h3>Cypto Punks Clone</h3>
                                     <p class="description ">Crypto punks was created as a way to have fun with crypto and also to educate others on the crypto world they live in. It was originally designed with Bitcoin in mind, but has later become compatible with over 400 other different cryptocoins.</p>
-                                    <div class="links "><a href="http://www.sleepingpharaoh.com/Crypto-Punks-Clone/" target="_blank " rel="noopener noreferrer " class="button ">Live Site</a><a href="https://github.com/pharaohmak/Crypto-Punks-Clone.git" target="_blank " rel="noopener
+                                    <div class="links "><a href="https://crypto-punks-clone.herokuapp.com/" target="_blank " rel="noopener noreferrer " class="button ">Live Site</a><a href="https://github.com/pharaohmak/Crypto-Punks-Clone.git" target="_blank " rel="noopener
                                 noreferrer " class="button ">GitHub Repo</a></div>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@ const Projects = () => {
                                     <p class="skills ">React -- JavaScript -- HTML -- CSS</p>
                                     <h3>Spotify Music Search App</h3>
                                     <p class="description ">Music search app lets you search for any song on Spotify with one button, by title, artist, or song name.</p>
-                                    <div class="links "><a href="http://www.sleepingpharaoh.com/spotify-music-search-app/" target="_blank " rel="noopener noreferrer " class="button ">Live Site</a><a href="https://github.com/pharaohmak/spotify-music-search-app.git
+                                    <div class="links "><a href="https://spotify-music-search-app-seven.vercel.app/" target="_blank " rel="noopener noreferrer " class="button ">Live Site</a><a href="https://github.com/pharaohmak/spotify-music-search-app.git
                                 " target="_blank " rel="noopener noreferrer " class="button ">GitHub Repo</a></div>
                                 </div>
                             </div>
@@ -47,7 +47,7 @@ const Projects = () => {
                                     <p class="skills ">React Native -- Javascript -- Node.js</p>
                                     <h3>JavaScript Tetris</h3>
                                     <p class="description ">Todolist for React Native is an app where you can list your tasks and read on updates. You can have update from within the app! This is an alternative to the native todo list.</p>
-                                    <div class="links "><a href="http://www.sleepingpharaoh.com/tetris/" target="_blank " rel="noopener noreferrer " class="button ">Live Demo</a><a href="https://github.com/pharaohmak/tetris.git" target="_blank
+                                    <div class="links "><a href="https://pharaohmak.github.io/tetris/" target="_blank " rel="noopener noreferrer " class="button ">Live Demo</a><a href="https://github.com/pharaohmak/tetris.git" target="_blank
                                 " rel="noopener noreferrer " class="button ">GitHub Repo</a></div>
                                 </div>
                             </div>
