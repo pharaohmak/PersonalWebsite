@@ -19,13 +19,11 @@ const AboutMe = () => {
                         <p class="visualHeading ">Hey, I&#x27;m Mak!</p>
                         <p>Are You Looking For a Reliable, Hardworking, and Effective Team Player and Problem Solver? Good News, You Can Stop looking!</p>
 
-                        <p>I Have been a self taught developer for the last year teaching myself programming by attending online courses, attending bootcamps, and now taking on projects from clients. In my journey I have acquired the skills necessary to perform in the role of a front end engineer including user interface know-how with HTML, CSS, and Javascript.</p>
+                        <p>I Have been a self taught developer for the last year teaching myself programming by attending online courses, attending bootcamps, and now taking on projects from clients. In my journey I have acquired the skills necessary to perform in the role of a front end engineer including user interface know-how with HTML, CSS, Javascript, and React; A strong understanding of industry trends and content management systems such as WordPress, and experience with responsive, interactive, and adaptive design.</p>
+
                         <p>I am confident that I am the right person to handle your project whether it be design, development, or deployment, I can step in and take over whatever you need! You can check out my recent work on my profile, Portfolio, Work History and Feedbacks to satisfy your needs. I can assure you that I will do my best to do your job.</p>
 
-                        <p>I am a reliable, hardworking, organized, and a effective team player. In my journey I have acquired the skills necessary to perform in the role of a front end software engineer (User interface know-how with CSS, HTML, JavaScript
-                            and React; A strong understanding of industry trends and content management systems such as WordPress, and experience with responsive, interactive, and adaptive design).</p>
-
-                            <p>I always aim to maintain a long term relationship with my clients. Weather you’ve lost your original developer, need additional resources, or want a brand new app, I can step in and take over whatever you need!</p>
+                        <p>I always aim to maintain a long term relationship with my clients. Weather you’ve lost your original developer, need additional resources, or want a brand new app, I can step in and take over whatever you need!</p>
 
                         <p>Goal</p>
                         <ul>
