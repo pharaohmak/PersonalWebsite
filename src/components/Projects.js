@@ -46,7 +46,7 @@ const Projects = () => {
                                 <div class="textContainer transBlue odd ">
                                     <p class="skills ">React Native -- Javascript -- Node.js</p>
                                     <h3>JavaScript Tetris</h3>
-                                    <p class="description ">Todolist for React Native is an app where you can list your tasks and read on updates. You can have update from within the app! This is an alternative to the native todo list.</p>
+                                    <p class="description ">The object of the game is to clear falling blocks by forming horizontal lines of blocks without gaps or blocks of the same color touching.</p>
                                     <div class="links "><a href="https://pharaohmak.github.io/tetris/" target="_blank " rel="noopener noreferrer " class="button ">Live Demo</a><a href="https://github.com/pharaohmak/tetris.git" target="_blank
                                 " rel="noopener noreferrer " class="button ">GitHub Repo</a></div>
                                 </div>
@@ -59,7 +59,7 @@ const Projects = () => {
                                 <div class="textContainer agenderGreen even ">
                                     <p class="skills ">Python</p>
                                     <h3>To Do List</h3>
-                                    <p class="description ">Fly the spaceship and destroy the space ships on the way to destroy the alien base. A simple shoot-em-up game built using Python.</p>
+                                    <p class="description ">Todolist for React Native is an app where you can list your tasks and read on updates. You can have update from within the app! This is an alternative to the native todo list.</p>
                                     <div class="links "><a href="https://expo.dev/@pharaohmak/todolist" target="_blank " rel="noopener noreferrer " class="button ">Live Demo</a><a href="https://github.com/pharaohmak/todolist.git" target="_blank " rel="noopener noreferrer " class="button ">GitHub Repo</a></div>
                                 </div>
                             </div>

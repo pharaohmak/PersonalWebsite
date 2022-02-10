@@ -42,7 +42,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
     grid-gap: 1fr;
-    align-items: justify;
+    align-items: space-evenly;
 }
 
 .tUrMA .skillsBox h4 {

@@ -27,15 +27,15 @@ const AboutMe = () => {
 
                         <p>Goal</p>
                         <ul>
-                            <li>Design: Create Wireframes, SVG Design, and Graphic Design</li>
-                            <li>Develop: Web & Mobile Development, E-Commerce Development, and Software Development.</li>
-                            <li>Deploy: Install, Configure, and Update Software.</li>
+                            <li>Design: Wireframes, SVG Design, and Graphic Design</li>
+                            <li>Develop: Web, E-Commerce, and Software Development.</li>
+                            <li>Modify: Calculate, Measure, and Improve Performance.</li>
                         </ul>
                         <p>The Opportunity</p>
                         <ul>
                             <li>Build: Functional Mobile, Web, and Desktop Apps.</li>
                             <li>Test: Unit, Integrational, and Functional Testing.</li>
-                           <li>Modify: Calculate, Measure, and Improve Performance.</li>
+                            <li>Deploy: Install, Configure, and Update Software.</li>
                         </ul>
 
                         <p>The Solution</p>
