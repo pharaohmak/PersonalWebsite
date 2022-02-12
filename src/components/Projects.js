@@ -44,7 +44,7 @@ const Projects = () => {
                                 <div class="imageContainer transBlue odd ">
                                     <img src={ tetris } alt="Screenshot of the Under the Sea project "/></div>
                                 <div class="textContainer transBlue odd ">
-                                    <p class="skills ">React Native -- Javascript -- Node.js</p>
+                                    <p class="skills ">Javascript -- HTML -- CSS</p>
                                     <h3>JavaScript Tetris</h3>
                                     <p class="description ">The object of the game is to clear falling blocks by forming horizontal lines of blocks without gaps or blocks of the same color touching.</p>
                                     <div class="links "><a href="https://pharaohmak.github.io/tetris/" target="_blank " rel="noopener noreferrer " class="button ">Live Demo</a><a href="https://github.com/pharaohmak/tetris.git" target="_blank
@@ -57,7 +57,7 @@ const Projects = () => {
                                 <div class="imageContainer agenderGreen even ">
                                     <img src={ toDoList } alt="Screenshot of the New Identity, Who Dis project "/></div>
                                 <div class="textContainer agenderGreen even ">
-                                    <p class="skills ">Python</p>
+                                    <p class="skills ">React Native -- JavaScript -- HTML -- CSS</p>
                                     <h3>To Do List</h3>
                                     <p class="description ">Todolist for React Native is an app where you can list your tasks and read on updates. You can have update from within the app! This is an alternative to the native todo list.</p>
                                     <div class="links "><a href="https://expo.dev/@pharaohmak/todolist" target="_blank " rel="noopener noreferrer " class="button ">Live Demo</a><a href="https://github.com/pharaohmak/todolist.git" target="_blank " rel="noopener noreferrer " class="button ">GitHub Repo</a></div>
