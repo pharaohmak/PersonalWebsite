@@ -2,7 +2,7 @@ import React from 'react';
 import tetris from '../assets/projects/tetris.png';
 import cryptoPunksClone from '../assets/projects/crypto-punks-clone.png'
 import toDoList from '../assets/projects/to-do-list.jpg'
-import spotifyMusicSearch from '../assets/projects/spotify-music-search.png'
+import faceDetection from '../assets/projects/face-detection.jpeg'
 
 
 const Projects = () => {
@@ -29,12 +29,12 @@ const Projects = () => {
                         <li>
                             <div class="ProjectCard__ProjectCardStyles-sc-1ewjskk-0 latnFe ">
                                 <div class="imageContainer transPink even ">
-                                    <img src={ spotifyMusicSearch } alt="Screenshot of the Drag Name Generator project "/></div>
+                                    <img src={ faceDetection } alt="Screenshot of the Drag Name Generator project "/></div>
                                 <div class="textContainer transPink even ">
-                                    <p class="skills ">React -- JavaScript -- HTML -- CSS</p>
-                                    <h3>Spotify Music Search App</h3>
-                                    <p class="description ">Music search app lets you search for any song on Spotify with one button, by title, artist, or song name.</p>
-                                    <div class="links "><a href="https://spotify-music-search-app-seven.vercel.app/" target="_blank " rel="noopener noreferrer " class="button ">Live Site</a><a href="https://github.com/pharaohmak/spotify-music-search-app.git
+                                    <p class="skills ">JavaScript -- HTML -- CSS</p>
+                                    <h3>JavaScript Facial Recognition Algorithm</h3>
+                                    <p class="description ">A simple facial recognition algorithm  built using javascript designed to use as a universal web platform  that’s open source and free to use.</p>
+                                    <div class="links "><a href="https://pharaohmak.github.io/facialRecognition/" target="_blank " rel="noopener noreferrer " class="button ">Live Site</a><a href="https://github.com/pharaohmak/facialRecognition.git
                                 " target="_blank " rel="noopener noreferrer " class="button ">GitHub Repo</a></div>
                                 </div>
                             </div>
