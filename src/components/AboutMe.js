@@ -19,22 +19,21 @@ const AboutMe = () => {
                         <p class="visualHeading ">Hey, I&#x27;m Mak!</p>
                         <p>Are You Looking For a Reliable, Hardworking, and Effective Team Player and Problem Solver? Good News, You Can Stop looking!</p>
 
-                        <p>I Have been a self taught developer for the last year teaching myself programming by attending online courses, attending bootcamps, and now taking on projects from clients. In my journey I have acquired the skills necessary to perform in the role of a front end engineer including user interface know-how with HTML, CSS, Javascript, and React; A strong understanding of industry trends and content management systems such as WordPress, and experience with responsive, interactive, and adaptive design.</p>
+                        <p>I have been a front-end software engineer for the past year, with experience in web development and design, eCommerce development, and mobile app development. I have a strong grasp of user interface know-how with HTML, CSS, and Javascript; A strong understanding of industry trends and content management systems such as WordPress; and experience with responsive, interactive, and adaptive design.</p>
 
-                        <p>I am confident that I am the right person to handle your project whether it be design, development, or deployment, I can step in and take over whatever you need! You can check out my recent work on my profile, Portfolio, Work History and Feedbacks to satisfy your needs. I can assure you that I will do my best to do your job.</p>
+                        <p>I am confident that I am the right person to handle your project whether it be design, development, or deployment, I can step in and take over whatever you need! I can assure you that I will do my best to do your job.</p>
 
-                        <p>I always aim to maintain a long term relationship with my clients. Weather you’ve lost your original developer, need additional resources, or want a brand new app, I can step in and take over whatever you need!</p>
-
-                        <p>Goal</p>
+                        <p>As your Software Engineer I will be responsible for;</p>
                         <ul>
-                            <li>Design: Wireframes, SVG Design, and Graphic Design</li>
-                            <li>Develop: Web, E-Commerce, and Software Development.</li>
-                            <li>Modify: Calculate, Measure, and Improve Performance.</li>
+                            <li>interpreting and executing designs correctly.</li>
+                            <li>building functional and appealing applications based on usability.</li>
+                            <li>testing, troubleshooting, and debugging code.</li>
+                            <li>calculate, measure, and improve performance.</li>
                         </ul>
                         <p>The Opportunity</p>
                         <ul>
                             <li>Build: Functional Mobile, Web, and Desktop Apps.</li>
-                            <li>Test: Unit, Integrational, and Functional Testing.</li>
+                            <li>Test: Unit, Integration, and Functional Testing.</li>
                             <li>Deploy: Install, Configure, and Update Software.</li>
                         </ul>
 
@@ -45,6 +44,8 @@ const AboutMe = () => {
                             <li>Advice: Promote usability best practices to maintain graphic standards.</li>
                             <li>Tech Support:  Troubleshooting and Debug Code.</li>
                         </ul>
+
+
 
                         <a href={ resume } target="_blank " rel="noopener " class="button ">View Résumé</a></div>
                     <h3 class="skills ">Skills</h3>
