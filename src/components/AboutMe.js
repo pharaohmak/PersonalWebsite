@@ -17,9 +17,9 @@ const AboutMe = () => {
                     <div class="aboutInfo ">
                         <h2>About me</h2>
                         <p class="visualHeading ">Hey, I&#x27;m Mak!</p>
-                        <p>Are You Looking For a Reliable, Hardworking, and Effective Team Player and Problem Solver? Good News, You Can Stop looking!</p>
+                        <p>Are You Looking For a Reliable, Hardworking, and Effective Problem Solver? Good News, You Can Stop looking!</p>
 
-                        <p>I have been a front-end software engineer for the past year, with experience in web development and design, eCommerce development, and mobile app development. I have a strong grasp of user interface know-how with HTML, CSS, and Javascript; A strong understanding of industry trends and content management systems such as WordPress; and experience with responsive, interactive, and adaptive design.</p>
+                        <p>I am a software engineer with experience in front-end web development and design, eCommerce development, and mobile app development. I have a strong grasp of user interface know-how with HTML, CSS, and Javascript; A strong understanding of industry trends and content management systems; and experience with responsive, interactive, and adaptive design.</p>
 
                         <p>I am confident that I am the right person to handle your project whether it be design, development, or deployment, I can step in and take over whatever you need! I can assure you that I will do my best to do your job.</p>
 
@@ -30,6 +30,7 @@ const AboutMe = () => {
                             <li>testing, troubleshooting, and debugging code.</li>
                             <li>calculate, measure, and improve performance.</li>
                         </ul>
+
                         <p>The Opportunity</p>
                         <ul>
                             <li>Build: Functional Mobile, Web, and Desktop Apps.</li>
@@ -39,7 +40,6 @@ const AboutMe = () => {
 
                         <p>The Solution</p>
                         <ul>
-                            <li>Custom Code: Functional and appealing applications based on usability.</li> 
                             <li>Consultation: Stay up to date with emerging technologies.</li>
                             <li>Advice: Promote usability best practices to maintain graphic standards.</li>
                             <li>Tech Support:  Troubleshooting and Debug Code.</li>
