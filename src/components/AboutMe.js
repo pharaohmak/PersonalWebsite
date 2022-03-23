@@ -28,13 +28,13 @@ const AboutMe = () => {
                             <li>interpreting and executing designs correctly.</li>
                             <li>building functional and appealing applications based on usability.</li>
                             <li>testing, troubleshooting, and debugging code.</li>
-                            <li>calculate, measure, and improve performance.</li>
                         </ul>
 
                         <p>The Opportunity</p>
                         <ul>
                             <li>Build: Functional Mobile, Web, and Desktop Apps.</li>
                             <li>Test: Unit, Integration, and Functional Testing.</li>
+                            <li>Modify: Calculate, measure, and improve performance. </li>  
                             <li>Deploy: Install, Configure, and Update Software.</li>
                         </ul>
 

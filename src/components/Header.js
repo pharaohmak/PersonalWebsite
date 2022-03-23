@@ -26,7 +26,7 @@ const Header = () => {
                     <p className="subheading ">Makram Ibrahim is...</p>
                     <h1>Sleeping</h1>
                     <h1>Pharaoh</h1>
-                    <p className="surheading "><span className="design ">Build.</span> <span className="develope ">Test.</span> <span className="deploy ">Deploy.</span></p>
+                    <p className="surheading "><span className="design ">Build.</span> <span className="develope ">Test.</span> <span className="develope ">Modify.</span> <span className="deploy ">Deploy.</span></p>
                 </section>
         </div>
         </div>
