@@ -19,30 +19,25 @@ const AboutMe = () => {
                         <p class="visualHeading ">Hey, I&#x27;m Mak!</p>
                         <p>Are You Looking For a Reliable, Hardworking, and Effective Problem Solver? Good News, You Can Stop looking!</p>
 
-                        <p>I am a software engineer with experience in front-end web development and design, eCommerce development, and mobile app development. I have a strong grasp of user interface know-how with HTML, CSS, and Javascript; A strong understanding of industry trends and content management systems; and experience with responsive, interactive, and adaptive design.</p>
+                        <p>I am a software engineer with a background in front-end web development and design, eCommerce development, mobile app development, and software development. I have a strong grasp of user interface know-how with HTML, CSS, and Javascript; A strong understanding of industry trends and emerging technologies; and experience with responsive, interactive, and adaptive design.</p>
 
                         <p>I am confident that I am the right person to handle your project whether it be design, development, or deployment, I can step in and take over whatever you need! I can assure you that I will do my best to do your job.</p>
 
-                        <p>As your Software Engineer I will be responsible for;</p>
-                        <ul>
-                            <li>interpreting and executing designs correctly.</li>
-                            <li>building functional and appealing applications based on usability.</li>
-                            <li>testing, troubleshooting, and debugging code.</li>
-                        </ul>
+                        <p>As your Software Engineer I will be responsible for interpreting and executing code correctly, building functional and appealing applications and software programs, and testing troubleshooting and debugging code.</p>
 
                         <p>The Opportunity</p>
                         <ul>
                             <li>Build: Functional Mobile, Web, and Desktop Apps.</li>
                             <li>Test: Unit, Integration, and Functional Testing.</li>
                             <li>Modify: Calculate, measure, and improve performance. </li>  
-                            <li>Deploy: Install, Configure, and Update Software.</li>
+                            <li>Debug: Install, Configure, and Update Software.</li>
                         </ul>
 
                         <p>The Solution</p>
                         <ul>
                             <li>Consultation: Stay up to date with emerging technologies.</li>
                             <li>Advice: Promote usability best practices to maintain graphic standards.</li>
-                            <li>Tech Support:  Troubleshooting and Debug Code.</li>
+                            <li>Support: Troubleshooting and Debug Code.</li>
                         </ul>
 
 
