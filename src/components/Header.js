@@ -2,6 +2,7 @@ import React from 'react'
 import './Header.css'
 import logo from '../assets/logo.png'
 import connect from '../assets/connect.svg'
+import resume from '../assets/resume.pdf'
 
 
 
@@ -14,7 +15,7 @@ const Header = () => {
                 <nav>
                     <ul>
                         <li className="logo">
-                            <img src={ logo } alt='logo'/></li>
+                            <a href={ resume } target="_blank"><img src={ logo } alt='logo'/></a></li>
                         <li className="getInTouch"><a href="mailto: pharaohmak@sleepingpharaoh.com" target="_blank" rel="noreferrer" aria-label="Click here to scroll directly to the Contact Me section"><img src={ connect } alt="" /></a></li>
                     </ul>
                 </nav>
